@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0FzW/Rrcl/QxIlTd+Vv1xn1QgilLLmlNRSp4gBOrJsWGZmx0UAqWTGm2vX2x7oUgHhO2RdfIQUTYVr8iYxCarw==",
+  "success": true,
+  "projectFilePath": "/Users/haojianseah/Projects/SampleSite/Sample-Apps/Star Wars Site(.NET&React)/SampleSite.csproj",
+  "expectedPackageFiles": [
+    "/Users/haojianseah/.nuget/packages/microsoft.aspnetcore.spaservices.extensions/5.0.10/microsoft.aspnetcore.spaservices.extensions.5.0.10.nupkg.sha512",
+    "/Users/haojianseah/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "/Users/haojianseah/.nuget/packages/microsoft.extensions.fileproviders.physical/5.0.0/microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "/Users/haojianseah/.nuget/packages/microsoft.extensions.filesystemglobbing/5.0.0/microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "/Users/haojianseah/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
