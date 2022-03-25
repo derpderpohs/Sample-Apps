@@ -1,0 +1,7 @@
+2021-Dec-27 02:56:56 AM [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper - Duplicate entry 'CA-2016-152156' for key 'store_order.ORDER_ID'
+2022-Jan-05 14:05:10 PM [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2022-Jan-06 10:52:30 AM [main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.

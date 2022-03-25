@@ -1,0 +1,185 @@
+2021-Dec-27 02:56:55 AM [main] DEBUG org.hibernate.SQL - 
+    select
+        next_val as id_val 
+    from
+        hibernate_sequence for update
+            
+2021-Dec-27 02:56:55 AM [main] DEBUG org.hibernate.SQL - 
+    update
+        hibernate_sequence 
+    set
+        next_val= ? 
+    where
+        next_val=?
+2021-Dec-27 02:56:55 AM [main] DEBUG org.hibernate.SQL - 
+    select
+        next_val as id_val 
+    from
+        hibernate_sequence for update
+            
+2021-Dec-27 02:56:55 AM [main] DEBUG org.hibernate.SQL - 
+    update
+        hibernate_sequence 
+    set
+        next_val= ? 
+    where
+        next_val=?
+2021-Dec-27 02:56:55 AM [main] DEBUG org.hibernate.SQL - 
+    select
+        next_val as id_val 
+    from
+        hibernate_sequence for update
+            
+2021-Dec-27 02:56:55 AM [main] DEBUG org.hibernate.SQL - 
+    update
+        hibernate_sequence 
+    set
+        next_val= ? 
+    where
+        next_val=?
+2021-Dec-27 02:56:55 AM [main] DEBUG org.hibernate.SQL - 
+    select
+        next_val as id_val 
+    from
+        hibernate_sequence for update
+            
+2021-Dec-27 02:56:55 AM [main] DEBUG org.hibernate.SQL - 
+    update
+        hibernate_sequence 
+    set
+        next_val= ? 
+    where
+        next_val=?
+2021-Dec-27 02:56:55 AM [main] DEBUG org.hibernate.SQL - 
+    select
+        next_val as id_val 
+    from
+        hibernate_sequence for update
+            
+2021-Dec-27 02:56:55 AM [main] DEBUG org.hibernate.SQL - 
+    update
+        hibernate_sequence 
+    set
+        next_val= ? 
+    where
+        next_val=?
+2021-Dec-27 02:56:55 AM [main] DEBUG org.hibernate.SQL - 
+    select
+        next_val as id_val 
+    from
+        hibernate_sequence for update
+            
+2021-Dec-27 02:56:55 AM [main] DEBUG org.hibernate.SQL - 
+    update
+        hibernate_sequence 
+    set
+        next_val= ? 
+    where
+        next_val=?
+2021-Dec-27 02:56:55 AM [main] DEBUG org.hibernate.SQL - 
+    select
+        next_val as id_val 
+    from
+        hibernate_sequence for update
+            
+2021-Dec-27 02:56:55 AM [main] DEBUG org.hibernate.SQL - 
+    update
+        hibernate_sequence 
+    set
+        next_val= ? 
+    where
+        next_val=?
+2021-Dec-27 02:56:55 AM [main] DEBUG org.hibernate.SQL - 
+    select
+        next_val as id_val 
+    from
+        hibernate_sequence for update
+            
+2021-Dec-27 02:56:55 AM [main] DEBUG org.hibernate.SQL - 
+    update
+        hibernate_sequence 
+    set
+        next_val= ? 
+    where
+        next_val=?
+2021-Dec-27 02:56:55 AM [main] DEBUG org.hibernate.SQL - 
+    select
+        next_val as id_val 
+    from
+        hibernate_sequence for update
+            
+2021-Dec-27 02:56:55 AM [main] DEBUG org.hibernate.SQL - 
+    update
+        hibernate_sequence 
+    set
+        next_val= ? 
+    where
+        next_val=?
+2021-Dec-27 02:56:55 AM [main] DEBUG org.hibernate.SQL - 
+    select
+        next_val as id_val 
+    from
+        hibernate_sequence for update
+            
+2021-Dec-27 02:56:55 AM [main] DEBUG org.hibernate.SQL - 
+    update
+        hibernate_sequence 
+    set
+        next_val= ? 
+    where
+        next_val=?
+2021-Dec-27 02:56:56 AM [main] DEBUG org.hibernate.SQL - 
+    select
+        next_val as id_val 
+    from
+        hibernate_sequence for update
+            
+2021-Dec-27 02:56:56 AM [main] DEBUG org.hibernate.SQL - 
+    update
+        hibernate_sequence 
+    set
+        next_val= ? 
+    where
+        next_val=?
+2021-Dec-27 02:56:56 AM [main] DEBUG org.hibernate.SQL - 
+    /* insert com.solution.Record
+        */ insert 
+        into
+            store_order
+            (CATEGORY, CUSTOMER_ID, CUSTOMER_NAME, DISCOUNT, ORDER_DATE, ORDER_ID, PRODUCT_ID, PRODUCT_NAME, PROFIT, QUANTITY, SHIP_DATE, SHIP_MODE, ID) 
+        values
+            (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [1] as [VARCHAR] - [Furniture]
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [2] as [VARCHAR] - [CG-12520]
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [3] as [VARCHAR] - [Claire Gute]
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [4] as [DOUBLE] - [0.0]
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [5] as [DATE] - [2016-11-08]
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [6] as [VARCHAR] - [CA-2016-152156]
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [7] as [VARCHAR] - [FUR-BO-10001798]
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [8] as [VARCHAR] - [Bush Somerset Collection Bookcase]
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [9] as [DOUBLE] - [41.9136]
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [10] as [INTEGER] - [2]
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [11] as [DATE] - [2016-11-11]
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [12] as [VARCHAR] - [Second Class]
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [13] as [INTEGER] - [288]
+2021-Dec-27 02:56:56 AM [main] DEBUG org.hibernate.SQL - 
+    /* insert com.solution.Record
+        */ insert 
+        into
+            store_order
+            (CATEGORY, CUSTOMER_ID, CUSTOMER_NAME, DISCOUNT, ORDER_DATE, ORDER_ID, PRODUCT_ID, PRODUCT_NAME, PROFIT, QUANTITY, SHIP_DATE, SHIP_MODE, ID) 
+        values
+            (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [1] as [VARCHAR] - [Furniture]
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [2] as [VARCHAR] - [CG-12520]
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [3] as [VARCHAR] - [Claire Gute]
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [4] as [DOUBLE] - [0.0]
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [5] as [DATE] - [2016-11-08]
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [6] as [VARCHAR] - [CA-2016-152156]
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [7] as [VARCHAR] - [FUR-CH-10000454]
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [8] as [VARCHAR] - [Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back]
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [9] as [DOUBLE] - [219.582]
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [10] as [INTEGER] - [3]
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [11] as [DATE] - [2016-11-11]
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [12] as [VARCHAR] - [Second Class]
+2021-Dec-27 02:56:56 AM [main] TRACE org.hibernate.type.descriptor.sql.BasicBinder - binding parameter [13] as [INTEGER] - [289]
